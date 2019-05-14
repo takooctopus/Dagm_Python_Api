@@ -1,0 +1,16 @@
+images/
+annotations/
+results/
+external/
+.DS_Store
+
+MatlabAPI/analyze*/
+MatlabAPI/visualize*/
+MatlabAPI/private/maskApiMex.*
+
+PythonAPI/pydagmtools/__init__.pyc
+PythonAPI/pydagmtools/_mask.c
+PythonAPI/pydagmtools/_mask.so
+PythonAPI/pydagmtools/dagm.pyc
+PythonAPI/pydagmtools/dagmeval.pyc
+PythonAPI/pydagmtools/mask.pyc

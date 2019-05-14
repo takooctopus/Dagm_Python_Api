@@ -1,0 +1,13 @@
+setup.py
+../common/maskApi.c
+pydagmtools/__init__.py
+pydagmtools/_mask.c
+pydagmtools/dagm.py
+pydagmtools/dagmeval.py
+pydagmtools/dagmjson.py
+pydagmtools/mask.py
+pydagmtools.egg-info/PKG-INFO
+pydagmtools.egg-info/SOURCES.txt
+pydagmtools.egg-info/dependency_links.txt
+pydagmtools.egg-info/requires.txt
+pydagmtools.egg-info/top_level.txt
